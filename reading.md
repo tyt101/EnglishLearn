@@ -28,15 +28,15 @@
 ```
 - 尾巴变为n音
 ```
-mountain / Martin / button / eaten
-tain->n  /tin->n  /ton->n  /ten->n
+mountain / Martin / button / eaten / gluten
+tain->n  /tin->n  /ton->n  /ten->n/ ten-n
 ```
 - 浊化t -> d
 ```
 water /ˈwɔːtər/ t 浊化 d
 ```
-###  read exercise
-
+##  read exercise
+### 1. 
 The red wolf, a unique type of wolf in the USA, is making a slow comeback thanks to a breeding program.
 
 Point Defiance(/dɪˈfaɪəns/) Zoo in Tacoma(/təˈkoʊmə/), Washington(/ˈwɑːʃɪŋtən/), helps by looking after their teeth. Broken teeth can make it hard for these wolves to eat properly(/ˈprɑːpərli/). Around 270 red wolves remain, most in zoos, and only 20 in the wild in eastern North Carolina(/ˌkærəˈlaɪnə/). The zoo’s vets(/vets/) gave the wolves dental checkups and cleaned their teeth. They also did x-rays and removed bad teeth.
@@ -52,3 +52,11 @@ Wolves in zoos live longer because they get regular health checkups. Red wolves 
 - have a hard time doing 做某事有困难
 - checkup 体检 body checkup / teeth checkup
 - reintroduce： 回归自然
+
+- - -
+### 2.
+Surgeons(/ˈsɜːrdʒən/) in New York accomplished(/əˈkɑːmplɪʃt/) the first-ever whole-eye transplant in a human. It is a historic breakthrough(/ˈbreɪkθruː/).
+
+Aaron(/ˈærən/) James, a military(/ˈmɪləteri/) veteran(/ˈvetərən/), underwent(/ˌʌndərˈwent/) a surgery(/ˈsɜːrdʒəri/) which lasted 21 hours. The surgery was part of a partial(/ˈpɑːrʃ(ə)l/) face transplant after an electrical(/ɪˈlektrɪkl/) accident at work. The transplanted eye didn’t help Aaron see but it shows positive signs of health. Dr. Eduardo Rodriguez said that the surgery was a big success and he mentioned that people always thought that such surgery was not possible.
+
+The transplanted eye currently doesn’t communicate with the brain, but the surgery’s success opens a new door for future possibilities in helping people see again.
