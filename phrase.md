@@ -79,3 +79,23 @@ dilemma question 进退两难的问题
   I'm not comfortable doing sth.
   I'm not comfortble answering your question
 ```
+
+- 表达没有听清楚，让对方重复说一遍
+```
+  I'm sorry.
+  pardon me.
+  Could you please a little slower?
+  say that again.
+  come again.
+  I didn't get your point.
+  I didn't get it
+```
+
+
+- bubble tea 奶茶
+- bubble tea store 奶茶店
+- xxx milk tea   xxx奶茶
+
+- I will feel the same as you. 和你的感觉一样
+- What's your favorite type of cuisine? 你最喜欢什么类型的菜？
+- 

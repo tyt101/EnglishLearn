@@ -33,23 +33,4 @@ I don't clue.
 job hopping 跳槽
 enhance my technolege
 
-pharmacy / drugstore 药房
-take sb's blood pressure. 
-ointment 药膏
-pain medication/killer 止痛药
-aspirin 阿司匹林        ibuprofen 布洛芬  advil   tylenol 泰诺
 
-cough syrup 咳嗽糖浆      maple（枫树） syrup 枫糖浆
-maple leaf represents Canada.
-allergies 过敏
-be allergic(adj.) to sth 对sth过敏
-allergen 过敏源
-I am allergic to seafood
-I am allergic to pollen 花粉
-gluten-free 无谷蛋白 GF 
-information 身体炎症
-
-itching 发痒 
-itchy 痒的
-I feel itchy all over   我全身痒
-itchy and wateray eyes. 

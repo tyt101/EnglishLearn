@@ -19,7 +19,7 @@
 - nt
 ```
   nt  美式里面有时候不读t
-  counter / wanted / identify /
+  counter / wanted / identify / antacids
 ```
 - mb  不读b
 ```
@@ -55,7 +55,7 @@ Wolves in zoos live longer because they get regular health checkups. Red wolves 
 
 - - -
 ### 2.
-Surgeons(/ˈsɜːrdʒən/) in New York accomplished(/əˈkɑːmplɪʃt/) the first-ever whole-eye transplant in a human. It is a historic breakthrough(/ˈbreɪkθruː/).
+Surgeons(/ˈsɜːrdʒən/) in New York accomplished(/əˈkɑːmplɪʃt/) the first-ever(史无前例) whole-eye transplant in a human. It is a historic breakthrough(/ˈbreɪkθruː/).
 
 Aaron(/ˈærən/) James, a military(/ˈmɪləteri/) veteran(/ˈvetərən/), underwent(/ˌʌndərˈwent/) a surgery(/ˈsɜːrdʒəri/) which lasted 21 hours. The surgery was part of a partial(/ˈpɑːrʃ(ə)l/) face transplant after an electrical(/ɪˈlektrɪkl/) accident at work. The transplanted eye didn’t help Aaron see but it shows positive signs of health. Dr. Eduardo Rodriguez said that the surgery was a big success and he mentioned that people always thought that such surgery was not possible.
 
