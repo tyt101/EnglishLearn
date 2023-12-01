@@ -92,3 +92,72 @@
 |我都忘了|It slipped my mind ||
 |随你的便|Suit yourself ||
 |请便|be my guest ||
+
+
+### 2023.11.26
+| 中文 | English | 生词 | 例句 |
+|:----:|:----:| :---: | :---:|
+|想跟着去吗|Want to tag along|
+|是谁做的|Who made this|
+|你想要吗|Do you want it |
+|他一团糟|He is a mess|
+|我搞砸了|I messed up|
+|别闹了|Stop messing around|
+|我不会允许的|Not on my watch|
+|我快要疯了|I'm losing my mind|
+|他要失控了|He's losing it|
+|也许能用得着|It might come in handy|
+|这要求很过分吗|Is that too much to ask|
+|这很帮忙|That's helps a lot|
+|你今天看起来不太一样|You look different today|
+|这给我很大压力|That stressed me out|
+|我受够了|I've had it!|
+|我受不了了|I can't stand it|
+|够了|That's enough!|
+|行了（适可而止）|enough is enough!|
+|我很饱（吃不下了）|I'm stuffed|
+|我鼻子不通（因感冒，过敏）|I'm all stuffed up|
+|你敢|Don't you dare!|
+|你好大的胆子|How dare you!|
+|她被打晕了|She got knocked out|
+|她被人搞大了肚子|She got knocked up|
+|他睡的很死（完全没知觉了）|He's completely out|
+|好一阵子了|It's been a while|
+|别总那么爱抱怨|Don't be a grump|
+|你为什么这么烦躁|Why are you so grumpy|grumpy|
+|别扫兴|Don't be a grinch|
+|振作|Keep your chin up!|
+|当着我的面说|Say it to my face|
+|别胡说了|Stop BS-ing me.|BS = Bullshit胡说|
+|他是在胡说八道|He's full of it|
+|你的最终目标是什么|What's your end game?|
+|我到时候即兴发挥吧|I'm just gonna wing it.|
+|说说你的想法|Please chime in |chime in 插话 , chime in with(与...协调)|
+|有后备计划吗|What's plan B|
+|条件是什么|What's the catch|
+|这回你一定要信我|trust me on this one|
+|你怎么看|What's your take|
+|我不是故意的|I didn't meat it.|
+|我说真的|I mean it.|
+|什么意思|What do you mean.|
+|这话是什么意思|What does that mean.|
+|你的手机讯号不清楚|You're breaking up.|
+|我突然顿悟了|I had an epiphany|
+|那是陈词滥调|That's so cliche|cliche|
+|我无言以对|I'm speechless|
+|有备无患|Better safe than sorry|
+|这很有趣 / 真有意思|(That's) interesting|
+|吃饭了|let's dig in|
+|不大可能|fat chance|
+|别乌鸦嘴|Don't jinx it.|
+|我领教过了|Been there done that|
+|你能接手吗|Can you take over|
+|他一定在做什么坏事|He is up to no good|
+|我只是随便说说|Just saying|
+|这让我太高兴了|This made my day|
+|别墨守成规|Think outside the box|
+|那不重要|It doesn't matter|
+|不能冒险|Don't take the chance|
+|不要碰运气|Don't chance it.|
+|他没有机会|He doesn't have a chance|
+|真巧|What's the chance!|
