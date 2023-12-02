@@ -98,7 +98,7 @@
 | 中文 | English | 生词 | 例句 |
 |:----:|:----:| :---: | :---:|
 |想跟着去吗|Want to tag along|
-|是谁做的|Who made this|
+|是谁做的|Who made this|  
 |你想要吗|Do you want it |
 |他一团糟|He is a mess|
 |我搞砸了|I messed up|
@@ -108,14 +108,14 @@
 |他要失控了|He's losing it|
 |也许能用得着|It might come in handy|
 |这要求很过分吗|Is that too much to ask|
-|这很帮忙|That's helps a lot|
+|这很帮忙|That helps a lot|
 |你今天看起来不太一样|You look different today|
 |这给我很大压力|That stressed me out|
 |我受够了|I've had it!|
 |我受不了了|I can't stand it|
 |够了|That's enough!|
 |行了（适可而止）|enough is enough!|
-|我很饱（吃不下了）|I'm stuffed|
+|我很饱（吃不下了）|I'm stuffed| stuff: 塞满|
 |我鼻子不通（因感冒，过敏）|I'm all stuffed up|
 |你敢|Don't you dare!|
 |你好大的胆子|How dare you!|
@@ -123,10 +123,10 @@
 |她被人搞大了肚子|She got knocked up|
 |他睡的很死（完全没知觉了）|He's completely out|
 |好一阵子了|It's been a while|
-|别总那么爱抱怨|Don't be a grump|
-|你为什么这么烦躁|Why are you so grumpy|grumpy|
-|别扫兴|Don't be a grinch|
-|振作|Keep your chin up!|
+|别总那么爱抱怨|Don't be a grump|grump: 闹情绪(n,v)|
+|你为什么这么烦躁|Why are you so grumpy|grumpy:爱发皮气的|
+|别扫兴|Don't be a grinch|grinch:败兴者|
+|振作|Keep your chin up!|chin:引体向上|
 |当着我的面说|Say it to my face|
 |别胡说了|Stop BS-ing me.|BS = Bullshit胡说|
 |他是在胡说八道|He's full of it|
@@ -142,8 +142,8 @@
 |什么意思|What do you mean.|
 |这话是什么意思|What does that mean.|
 |你的手机讯号不清楚|You're breaking up.|
-|我突然顿悟了|I had an epiphany|
-|那是陈词滥调|That's so cliche|cliche|
+|我突然顿悟了|I had an epiphany|epiphany/ ɪˈpɪfəni /: 顿悟|
+|那是陈词滥调|That's so cliche|cliche/ kliːˈʃeɪ /：陈词滥调 n.|
 |我无言以对|I'm speechless|
 |有备无患|Better safe than sorry|
 |这很有趣 / 真有意思|(That's) interesting|
