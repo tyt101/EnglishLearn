@@ -3,7 +3,7 @@
 
 when I was a child, I used to pick up stones on my way from school to home, play in the mud in my grandmother's field, I really like all kinds of beautiful and crystal clear stones in the past, I still like them but don't pick up stones now. because I can't find the interesting of picking up stones with my Childhood friend, also as I grew up, I witnessed the changes of the city, the city streets changed a lot, I never walked the road that I used to pick up stones. when I gone to my grandmother's home where is a small villege, I usually play in the mud with my siblings, we used mud to create mechines , for example telephones, interphones. That's the best memorize of my childhood but I don't do that now, because we all grew up, we have many other things to do, more activities to attend, and the way of getting happiness had changed, also we have being a long time to leave hometown.
 
-=>
+---
 When I was a child, I used to pick up stones on my way from school to home and play in the mud in my grandmother's field. Back then, I liked all kinds of beautiful and crystal-clear stones in the past. While I still like them, I no longer pick stones up because I can't find the interesting of picking up stones with my Childhood friend, as I grew older, I witnessed the changes in the city, the city streets changed a lot, I never walked the road that I used to pick up stones. 
 
 When I went to my grandmother's home which was a small village, I used to play in the mud with my sister, we used mud to mold machines, for example, telephones, walkie talkies. That's the best memory of my childhood. However, I don't do that now because we have all grown up, we have many other things to do, more activities to attend, and the way of getting happiness has changed, we have been a long time to leave our hometown.
@@ -55,3 +55,37 @@ binge-watch. 刷剧
 fraudulent people 骗子
 
 implement v. 实施xxx办法
+
+
+---
+As far as I know, the price of medicine has been increasing in recent years. I still remember the 999 cold medicine used to cost only 9.9 RMB in the past but it has now been raised/has risen to 19.9 RMB. People are becoming more afraid of falling ill /being sick as they can't afford medical expenses. Besides, there is a growing problem of fraudulent people selling supplements to the elderly.
+
+Fortunately, our government is implementing plans to solve these scams in our daily lives and reminds people to be aware of supplement scams in our daily lives. Also, many people no longer need to worry about the costs of healthcare, thanks to medical insurance. Finally, there are many free medical services in every hospital or some online doctors.
+
+Rise risen
+Sun rises every morning.
+
+Raise
+We need to raise our standards.
+
+Fall ill with…
+
+Fraudulent adj. ~ people (fraud)
+
+Implement v.实施
+
+### Write about what you and your family are doing later today and/or this weekend.
+
+I'm sorry I don't know what my family do today or this weekend because I'm far from them. But I know they hang out every moring and watch TV every evening , sometimes have a party with their friends.
+
+For me , my daily life is very simple, go work, come back home, watch TV and study. 
+I am visiting my elder sister this weekend and I took a day off for this, I think I should have a break for myself, I want to enjoy my life but work day and day with no friends in the strange city. because I regard such a life is boring if I continue my life in the same way. I'll try to start my new life and reback to exercise.
+
+
+
+
+
+---
+I'm sorry I don't know what my family do today or this weekend because I'm far from them. But I know they hang out every morning and watch TV every evening, sometimes having a party with their friends.
+
+For me, my daily life is very simple, go to work, come back home, watch TV, and study. I am visiting my elder sister this weekend and I’ve taken a day off for this. I think I should have a break for myself. I want to enjoy my life, but working day by day with no friends in the strange city feels monotonous. I’ll find life boring if I continue with the same routine. I plan to start a new chapter and return to my exercise routine.

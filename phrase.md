@@ -109,3 +109,7 @@ dilemma question 进退两难的问题
 - the creek / stream 小溪
 - the river 河
 - church 教堂
+
+- variety show 综艺
+- custome dramas 古装剧
+- pick up groceries / go grocery shopping/store  / buy groceries 买菜 
