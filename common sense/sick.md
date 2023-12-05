@@ -56,7 +56,7 @@ How can I help you ?
 - I've been having headaches. 
 - I have a toothache! I think I have a cavity(/ˈkævəti
 /).
-- My skin is itchy! I can't stop scratching.
+- My skin is itchy! I can't stop scratching.   
 - My legs feel weak!
 - My ears are sore!
 - I need a sick note(病假条), I've got a sore throat.

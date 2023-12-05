@@ -98,4 +98,14 @@ dilemma question 进退两难的问题
 
 - I will feel the same as you. 和你的感觉一样
 - What's your favorite type of cuisine? 你最喜欢什么类型的菜？
-- 
+- go to volunteer 做志愿者
+- get coffee 喝咖啡
+- I'm not doing antthing
+- a meeting
+- a concert
+- the mountains
+- the beach 沙滩
+- the lake 湖
+- the creek / stream 小溪
+- the river 河
+- church 教堂

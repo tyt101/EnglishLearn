@@ -22,8 +22,8 @@ Taylor is learning to drive tomorrow.
 
 
 ---
-专业领域：study
-技能相关：learn learn to do sth.
+- 专业领域：study
+- 技能相关：learn learn to do sth.
 
 --- 
 meet 主动见

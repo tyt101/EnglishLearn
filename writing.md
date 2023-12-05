@@ -38,3 +38,20 @@ Get an electric shock 触电
 
 static electricity 静电
 static problem 静电问题
+
+
+### How is medicine or the price of medicine different in you native country?
+
+As far as I know, the price of medicine is increasing those years. I still remember
+the 999 cold medicine only need 9.9 RMB in the past but it has been increased to 19.9,
+people are more afraid of having a sick as they can't afford the price of looking for a doctor. Besides, there are more and more liars who sell supplements to the aged.
+but fortunately, our government is making plans to solve these problems, it reminds people to be aware of supplements scam in our daily life. also lots of people don't need to worry about desease cost thanks to medical insurance , also there are many free medical services in every hospital or some online doctors. 
+
+
+get into seeing costume(古装的) drama(古装剧) recently ! 最近爱上看古装剧
+It's very addicting. 它非常上瘾
+binge-watch. 刷剧
+
+fraudulent people 骗子
+
+implement v. 实施xxx办法
