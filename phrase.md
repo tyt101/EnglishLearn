@@ -113,3 +113,6 @@ dilemma question 进退两难的问题
 - variety show 综艺
 - custome dramas 古装剧
 - pick up groceries / go grocery shopping/store  / buy groceries 买菜 
+
+- monotonous 单调的，乏味的
+- be utterly(/ˈʌtərli/) destitute(/ˈdestɪtuːt/) 极其穷困，家徒四壁

@@ -33,4 +33,30 @@ I don't clue.
 job hopping 跳槽
 enhance my technolege
 
+‘project 重音在前面
 
+diet 节食v。  n日常饮食 低糖的饮食adj.
+keto diet
+
+
+## 
+compare prices
+save 
+generic brand 没有商标品牌
+brand name 被保护的商标 n.
+name brand 有商标的 adj.
+unit price 单价
+on sale 打折，特价
+(buy one get one free ) bogo 买一送一
+low price 低价
+check out 看
+half off 半价
+saving of up to 50% throughout the store 打折上限50%
+‘discount 折扣
+deal 交易
+organic 有机的
+$2.89 :2 dollars and 89 cents
+
+$555.55:  five hundred fifty five , fifty five
+$138.90
+$1500: 15 hundred

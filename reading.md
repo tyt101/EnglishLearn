@@ -60,3 +60,14 @@ Surgeons(/ˈsɜːrdʒən/) in New York accomplished(/əˈkɑːmplɪʃt/) the fir
 Aaron(/ˈærən/) James, a military(/ˈmɪləteri/) veteran(/ˈvetərən/), underwent(/ˌʌndərˈwent/) a surgery(/ˈsɜːrdʒəri/) which lasted 21 hours. The surgery was part of a partial(/ˈpɑːrʃ(ə)l/) face transplant after an electrical(/ɪˈlektrɪkl/) accident at work. The transplanted eye didn’t help Aaron see but it shows positive signs of health. Dr. Eduardo Rodriguez said that the surgery was a big success and he mentioned that people always thought that such surgery was not possible.
 
 The transplanted eye currently doesn’t communicate with the brain, but the surgery’s success opens a new door for future possibilities in helping people see again.
+
+- - -
+### 3
+Last Wednesday, Russian missiles(/ˈmɪsl/) hit the Ukrainian(/jʊˈkraɪnɪən/) capital of Kyiv. It happened just at the moment when doctors were doing an open-heart surgery on a 14-year-old boy.
+
+Doctors were in the surgery when suddenly the lights started to flicker and the room went dark. Hospital staff quickly started a generator to get some electricity. The doctors couldn’t wait for more light, so they continued to work on the operation with only the light from their phones and headlamps. Luckily, the boy survived and he was doing well after the operation.
+
+Russia admitted that it wanted to cut Kyiv off from electricity and water. The idea was to stop Ukraine’s fight and to negotiate(/nɪˈɡoʊʃieɪt/)谈判 with Russia.
+
+off and on / on  and on  断断续续
+cut off from xxx 把xx切断
