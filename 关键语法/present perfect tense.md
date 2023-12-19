@@ -31,22 +31,29 @@ I don't even know.副词在句中，+助动词后面
 1. 
 I have sent that message.
 You have taken a bite.
-Tom and Saray have been the best friend.
+Tom and Saray have been the best friends.
 He has made a decision.
-The sun has dropped.
+The sun has set.
+Sunset日落 sunrise日出
+
 2. 
-I have been a leaner for 2 years.
+I have been a learner for 2 years.
 Sea level has increased since 1990.
-She has prepared postgraduate entrance exam for 3 years.
-The dog has guarded the door since it born.
+She has been preparing for the/a postgraduate entrance exam for 3 years.
+
+Prepare for sth/prepare to do
+
+The dog has guarded the door since it was born.
 We have been friends since we were 8.
+
 3. 
-My MBTI have recently become ENFJ-A from INFJ-A.
+My MBTI has recently changed to ENFJ-A from INFJ-A.(dash)
 I have just installed the monitor.
 He has just drunk tea
 I have just awoken.
 We have known each other recently.
+
 4. 
 You haven't achieved your goal.
-We haven't seen for ten years.
+We haven't seen each other for ten years.
 He hasn't just done that.

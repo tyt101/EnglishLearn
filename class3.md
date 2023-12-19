@@ -60,3 +60,24 @@ $2.89 :2 dollars and 89 cents
 $555.55:  five hundred fifty five , fifty five
 $138.90
 $1500: 15 hundred
+
+--
+How are you getting ready?  你准备的如何？
+get ready to do sth. 准备去...
+get ready for sth. 准备...
+
+position: 应聘职位
+
+family作为概念不可数，比如 money is not important than family
+作为实体家庭时可数
+
+
+
+at school / at company
+
+
+
+
+
+
+

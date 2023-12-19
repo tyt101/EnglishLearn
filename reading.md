@@ -71,3 +71,13 @@ Russia admitted that it wanted to cut Kyiv off from electricity and water. The i
 
 off and on / on  and on  断断续续
 cut off from xxx 把xx切断
+
+
+### 4
+
+Do you sometimes wonder where your lost belongings(所有物，财物；亲属) end up(结局)? They could be for sale at the Unclaimed(无人认领的) Baggage store in Alabama, California.
+
+
+The store started operating over 50 years ago. This huge 4,600-square-meter(ˈhʌndrəd) store sells items left unclaimed by airlines for at least nine days. This is not a usual lost and found store, people come here to buy things which nobody wants. Doyle Owens founded(创办) the store in 1970, when he sold unclaimed baggage which he bought(/bɔːt/) in Washington(/ˈwɑːʃɪŋtən/) DC.
+
+While 99.5% of bags usually find their owners. Owens sells or recycles the rest, or even puts it in a store museum.

@@ -39,7 +39,7 @@ Did you use to come here as a child
 - argue with my siblings / have a fight with sb
 - have a curfew 宵禁
 - young adult (18-22)
-- generic (没有商标，不受品牌保护的)
+- ge'neric (没有商标，不受品牌保护的)
 - CEO (chief executive(/ɪɡˈzekjətɪv/) officer)
 - clothes 读音变成 cloz
 
@@ -116,3 +116,43 @@ dilemma question 进退两难的问题
 
 - monotonous 单调的，乏味的
 - be utterly(/ˈʌtərli/) destitute(/ˈdestɪtuːt/) 极其穷困，家徒四壁
+
+- down jacket 羽绒服
+
+- lost and found 失物招领处 
+- e-commerce 电商
+- merchandise(n不可数，v推销) / items / products 商品
+- general merchandise（/ˈmɜːrtʃəndaɪs/） 日用品
+
+```
+be as ... as  和...一样 ...可加的取决于修饰的词
+I earn as much money as him.
+I have as many book as Davie.
+
+sheet 床单，纸
+
+as busy as a bee 忙的团团转
+
+asap: as soon as possible
+
+To win the competition ,you need swim as fast as possible.
+
+Can you speak as loudly as possible.
+```
+
+```
+pro'duct n产品
+productive  adv.多产的
+produce v.生产 pro'duce n.农产品 'produce
+```
+
+- circular     n. 宣传单
+
+- founded(创办)
+
+- spring festival 春节 / Chinese new year
+- oat 麦片
+```
+cereal(n.谷类食物, adj.谷类的)  是grain做的
+cereal is made of grain.
+```
