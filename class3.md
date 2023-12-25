@@ -42,31 +42,12 @@ keto diet
 ## 
 compare prices
 save 
-generic brand 没有商标品牌
-brand name 被保护的商标 n.
-name brand 有商标的 adj.
-unit price 单价
-on sale 打折，特价
-(buy one get one free ) bogo 买一送一
-low price 低价
-check out 看
-half off 半价
-saving of up to 50% throughout the store 打折上限50%
-‘discount 折扣
-deal 交易
-organic 有机的
-$2.89 :2 dollars and 89 cents
-
-$555.55:  five hundred fifty five , fifty five
-$138.90
-$1500: 15 hundred
 
 --
 How are you getting ready?  你准备的如何？
 get ready to do sth. 准备去...
 get ready for sth. 准备...
 
-position: 应聘职位
 
 family作为概念不可数，比如 money is not important than family
 作为实体家庭时可数

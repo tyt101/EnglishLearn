@@ -89,3 +89,22 @@ I am visiting my elder sister this weekend and I took a day off for this, I thin
 I'm sorry I don't know what my family do today or this weekend because I'm far from them. But I know they hang out every morning and watch TV every evening, sometimes having a party with their friends.
 
 For me, my daily life is very simple, go to work, come back home, watch TV, and study. I am visiting my elder sister this weekend and I’ve taken a day off for this. I think I should have a break for myself. I want to enjoy my life, but working day by day with no friends in the strange city feels monotonous. I’ll find life boring if I continue with the same routine. I plan to start a new chapter and return to my exercise routine.
+
+
+### Write about something that you bought on sale or got for a good price. What was it? Do you still have it?
+
+
+I have bought many objects at good prices,such as student-optimized laptops, clothes on sale, music memberships and so on. I've noticed a regulation (observed a pattern), if you want to buy clothes at a good price, you can choose to look(consider looking) for them in the opposite season. Usually(Typically通常的), it can be nearly half price or buy one get one free. For example, you can buy a down jacket in the summer or spring, it only costs you ¥600 but ¥1000 , or you can get shoes together with a down jacket. I still remember I bought a puma's shoes last year, it only cost me half price in last 11.11, I still have it, I still feel well when I put on the shoes.
+
+
+Usually 表习惯，Typically 表客观事实。
+half price / half the original price.
+--- 
+
+I have bought many objects at good prices,  such as student-optimized laptops, clothes on sale, music memberships, and so on. I've observed a pattern, if you want to buy clothes at a good price, you can consider looking for them in the opposite season. Typically, it can be nearly half the original price or even buy one get one free. For example, purchasing a down jacket in the summer or spring might cost only ¥600 instead of ¥1000, or you may find deals where you get shoes along with a down jacket. I still remember when I bought a pair of Puma's shoes during last year's 11.11 sale, it only cost me half price/they were available at half price. I still have them and they are still very comfortable./I’m comfortable when I put on the shoes.
+
+Observe a pattern
+A pair of Pants
+Glasses
+scissors
+

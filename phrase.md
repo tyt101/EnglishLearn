@@ -156,3 +156,23 @@ produce v.生产 pro'duce n.农产品 'produce
 cereal(n.谷类食物, adj.谷类的)  是grain做的
 cereal is made of grain.
 ```
+
+- position: 应聘职位
+- generic brand 没有商标品牌
+- brand name 被保护的商标 n.
+- name brand 有商标的 adj.
+- unit price 单价
+- on sale 打折，特价
+- (buy one get one free ) bogo 买一送一
+- low price 低价
+- check out 看
+- half off 半价
+- saving of up to 50% throughout the store 打折上限50%
+- ‘discount 折扣
+- deal 交易
+- organic 有机的
+- $2.89 :2 dollars and 89 cents
+
+- $555.55:  five hundred fifty five , fifty five
+- $138.90
+- $1500: 15 hundred
