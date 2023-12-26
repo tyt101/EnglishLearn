@@ -7,33 +7,21 @@ be used to doing 习惯于  （适应了） / be familiar with sth.
 used to do 曾经做
 hurt: v. 疼
 
-He wasn't used to walking so much, his leg hurts after hike
-He was used to walk a lot
-
-He is used to the city, so he doesn't get lost anymore
-
-
-I find this new job very hard , but I'm sure I'll get used to it soon.
 
 
 You got this , I believe in you 加油，我相信你
 
-It took my mother years to get used to living in Canada after moving from China
 
-I'm getting used to the noise now, I found it really stressful when I first moved in
 
-I didn't use to sleep very well, but then I started doing yoga and it really helps
 
-he used to be a long-distance runner when he was young.
 
-Did you use to come here as a child
 ```
 - - -
 - smoke cigarettes
 - get into(in) trouble
 - collect something
 - eat junk food
-- trinkets
+- trinkets /ˈtrɪŋkɪts/ 小饰品
 - eat out (指不在家，出门吃) / eat outside (指户外吃)
 - stay out late (玩的很晚) / sleep in late (睡懒觉)
 - argue with my siblings / have a fight with sb
@@ -66,8 +54,8 @@ dilemma question 进退两难的问题
 
 - heating blanket 电热毯
 - air conditioner (AC) 空调
-- humidifier 加湿器
-- cold and humid 湿冷
+- humidifier /hjuːˈmɪdɪfaɪər/ 加湿器
+- cold /koʊld/ and humid /hjuːmɪd/ 湿冷
 
 - exercise regularly
 - lower my head and bend
@@ -97,12 +85,12 @@ dilemma question 进退两难的问题
 - xxx milk tea   xxx奶茶
 
 - I will feel the same as you. 和你的感觉一样
-- What's your favorite type of cuisine? 你最喜欢什么类型的菜？
+- What's your favorite type of cuisine /kwɪˈziːn/ ? 你最喜欢什么类型的菜？
 - go to volunteer 做志愿者
 - get coffee 喝咖啡
-- I'm not doing antthing
+- I'm not doing anything
 - a meeting
-- a concert
+- a concert /ˈkɑːnsərt/
 - the mountains
 - the beach 沙滩
 - the lake 湖
@@ -111,17 +99,17 @@ dilemma question 进退两难的问题
 - church 教堂
 
 - variety show 综艺
-- custome dramas 古装剧
+- costume /ˈkɑːstuːm/ dramas 古装剧
 - pick up groceries / go grocery shopping/store  / buy groceries 买菜 
 
-- monotonous 单调的，乏味的
+- monotonous /məˈnɑːtənəs/ 单调的，乏味的
 - be utterly(/ˈʌtərli/) destitute(/ˈdestɪtuːt/) 极其穷困，家徒四壁
 
 - down jacket 羽绒服
 
 - lost and found 失物招领处 
 - e-commerce 电商
-- merchandise(n不可数，v推销) / items / products 商品
+- merchandise /ˈmɜːrtʃəndaɪs/(n不可数，v推销) / items / products 商品
 - general merchandise（/ˈmɜːrtʃəndaɪs/） 日用品
 
 ```
@@ -146,7 +134,7 @@ productive  adv.多产的
 produce v.生产 pro'duce n.农产品 'produce
 ```
 
-- circular     n. 宣传单
+- circular   /ˈsɜːrkjələr/  n. 宣传单
 
 - founded(创办)
 
@@ -176,3 +164,10 @@ cereal is made of grain.
 - $555.55:  five hundred fifty five , fifty five
 - $138.90
 - $1500: 15 hundred
+
+
+- zodiac /ˈzoʊdiæk/ 星座
+- constellation /ˌkɑːnstəˈleɪʃ(ə)n/ 星座
+- interstellar /ˌɪntərˈstelər/ 星际
+
+- scissors  /ˈsɪzərz/

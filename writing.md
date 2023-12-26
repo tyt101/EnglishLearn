@@ -106,5 +106,5 @@ I have bought many objects at good prices,  such as student-optimized laptops, c
 Observe a pattern
 A pair of Pants
 Glasses
-scissors
+
 
