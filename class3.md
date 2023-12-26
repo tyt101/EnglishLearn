@@ -55,10 +55,20 @@ family作为概念不可数，比如 money is not important than family
 
 
 at school / at company
+be persistent to do sth. 坚持
 
 
 
+unstable 不稳定
+go with the flow. 
+go with the flow.
+I'm not in a rush to find a new job.
 
 
-
-
+- take advantage 占便宜
+take your advantage 咱优势
+- coupon 优惠券
+- discount promotion 促销
+- bargain 
+- negotiate the price 谈判
+- the custom / convention to bargain

@@ -101,7 +101,7 @@ Usually 表习惯，Typically 表客观事实。
 half price / half the original price.
 --- 
 
-I have bought many objects at good prices,  such as student-optimized laptops, clothes on sale, music memberships, and so on. I've observed a pattern, if you want to buy clothes at a good price, you can consider looking for them in the opposite season. Typically, it can be nearly half the original price or even buy one get one free. For example, purchasing a down jacket in the summer or spring might cost only ¥600 instead of ¥1000, or you may find deals where you get shoes along with a down jacket. I still remember when I bought a pair of Puma's shoes during last year's 11.11 sale, it only cost me half price/they were available at half price. I still have them and they are still very comfortable./I’m comfortable when I put on the shoes.
+I have bought many objects at good prices,  such as student-optimized laptops, clothes on sale, music memberships, and so on. I've observed a pattern, if you want to buy clothes at a good price, you can consider looking for them in the opposite season. Typically, it can be nearly half the original price or even buy one get one free. For example, purchasing a down jacket in the summer or spring might cost only ¥600 instead of ¥1000, or you may find deals where you get shoes along with a down jacket. I still remember when I bought a pair of Puma's shoes during last year's 11.11 sale, it only cost//kɔːst// me half price/they were available at half price. I still have them and they are still very comfortable./I’m comfortable when I put on the shoes.
 
 Observe a pattern
 A pair of Pants

@@ -166,8 +166,9 @@ cereal is made of grain.
 - $1500: 15 hundred
 
 
-- zodiac /ˈzoʊdiæk/ 星座
+- zodiac /ˈzoʊdiæk/ 星座!! (更常见)
 - constellation /ˌkɑːnstəˈleɪʃ(ə)n/ 星座
 - interstellar /ˌɪntərˈstelər/ 星际
+
 
 - scissors  /ˈsɪzərz/
