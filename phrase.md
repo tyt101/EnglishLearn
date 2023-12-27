@@ -172,3 +172,5 @@ cereal is made of grain.
 
 
 - scissors  /ˈsɪzərz/
+- astound 使惊恐 vt
+- fright 惊吓
