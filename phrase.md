@@ -174,3 +174,7 @@ cereal is made of grain.
 - scissors  /ˈsɪzərz/
 - astound 使惊恐 vt
 - fright 惊吓
+
+- dawn: I couldn't sleep util dawn.
+
+- take a screen shot 截图
