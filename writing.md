@@ -108,3 +108,41 @@ A pair of Pants
 Glasses
 
 
+
+
+
+### Write about something you regret having done. Point out what could have happened if you had not made that decision.
+
+
+
+I have been regreting renting a big old house, so I have to do some clean every week and I really hate cleaning. It would be a lot easier if I did'nt do that and rented an apartment, and someone cleaned the public area regularly, and I had a smaller area to manage, It also would be much quieter if I didn't make that decision to rent a house near the road.
+
+---
+I dislike the cleaning / I wouldn't say I like cleaning.
+
+--- 
+###### 虚拟语气
+
+I have been regretting renting a big, old house, so I have to do a lot of cleaning/chores every week, and I wouldn't say I like cleaning(I dislike cleaning). It would have been a lot easier if I hadn't done that and rented an apartment where someone cleaned the common areas regularly, and I had a smaller space to manage. It would also be much quieter if I hadn't made the decision to rent a house near the road.
+
+
+- extrapolate/ɪkˈstræpəleɪt/ 推断
+- lessons learned 教训
+- session/ˈseʃ(ə)n/ 部分
+- closure/ˈkloʊʒər/ 了解，了断
+- fresh outlook 全新的面貌
+- move forward 继续前进
+- tangible/ˈtændʒəb(ə)l/ 可感知的， 可触碰的
+- life-changing (job )改变生活的 (工作)
+
+- all or nothing mentality 非黑即白的
+- grudge/ɡrʌdʒ/ / resentment/rɪˈzentmənt/ / hold a grudge 心怀怨恨
+- resent 憎恨
+- negative body image 身材焦虑
+- negative self-talk 自我负面的对话
+- obsessing over mistakes 困扰在错误中
+- out-dated beliefs/bɪˈlif/
+- overindulgence 过度沉溺
+<!-- - The grass is  -->
+- controlling 控制欲强的
+- deny sb completely

@@ -178,3 +178,11 @@ cereal is made of grain.
 - dawn: I couldn't sleep util dawn.
 
 - take a screen shot 截图
+
+---
+- It's okay , everything is okay. Don't worry too much.
+- I'm here.
+- Don't think too much
+- Is there anything that I can help.
+
+- election 选举。
