@@ -126,23 +126,9 @@ I dislike the cleaning / I wouldn't say I like cleaning.
 I have been regretting renting a big, old house, so I have to do a lot of cleaning/chores every week, and I wouldn't say I like cleaning(I dislike cleaning). It would have been a lot easier if I hadn't done that and rented an apartment where someone cleaned the common areas regularly, and I had a smaller space to manage. It would also be much quieter if I hadn't made the decision to rent a house near the road.
 
 
-- extrapolate/ɪkˈstræpəleɪt/ 推断
-- lessons learned 教训
-- session/ˈseʃ(ə)n/ 部分
-- closure/ˈkloʊʒər/ 了解，了断
-- fresh outlook 全新的面貌
-- move forward 继续前进
-- tangible/ˈtændʒəb(ə)l/ 可感知的， 可触碰的
-- life-changing (job )改变生活的 (工作)
+### Write about a vacation you (or someone you know) went on. where did you go? what did you do ?
 
-- all or nothing mentality 非黑即白的
-- grudge/ɡrʌdʒ/ / resentment/rɪˈzentmənt/ / hold a grudge 心怀怨恨
-- resent 憎恨
-- negative body image 身材焦虑
-- negative self-talk 自我负面的对话
-- obsessing over mistakes 困扰在错误中
-- out-dated beliefs/bɪˈlif/
-- overindulgence 过度沉溺
-<!-- - The grass is  -->
-- controlling 控制欲强的
-- deny sb completely
+The latest vacation was this New Year, I went to Pintan Island with my friends. It was a wonderful vacation as we enjoyed ourselves completely. We went to see the sunrise and the sunset, also it was the first time I tried to take a road trip without my parents. I felt happiness and freedom to enjoy nature, I like wind, sea, and mountains, it seemed like I put off all of my stress and I could comfortably express myself. Additionally, we ate all kinds of snacks but I can’t remember all of them, I found satay noodles again, I tasted it at 11 years old, I completely forgot the name of satay noodles, so I looked for it for many years, unfortunately, I never meet satay noodles but Fujian, so I’m excited to taste it again and I felt very excited when I met the seafood congee/ˈkɑːndʒi/ which is the same as my hometown’s taste, but Fuzhou’s seafood is much cheaper and fresher than Sichuan's.
+
+All in all, I want to go to Fujian every winter as it’s really warm in the winter, I like the climate, the scenery, the air, and the food.
+

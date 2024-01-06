@@ -186,3 +186,11 @@ cereal is made of grain.
 - Is there anything that I can help.
 
 - election 选举。
+
+- extrapolate/ɪkˈstræpəleɪt/ 推断
+- lessons learned 教训
+- session/ˈseʃ(ə)n/ 部分
+- closure/ˈkloʊʒər/ 了解，了断
+- fresh outlook 全新的面貌
+- move forward 继续前进
+- tangible/ˈtændʒəb(ə)l/ 可感知的， 可触碰的
