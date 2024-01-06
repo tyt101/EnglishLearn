@@ -6,7 +6,7 @@
 - un(/sʌn/)
 - some(/sʌm/)
 - wrong(/rɔːŋ/)
-- un(/rʌn/)
+- run(/rʌn/)
 
 
 ## read daily
