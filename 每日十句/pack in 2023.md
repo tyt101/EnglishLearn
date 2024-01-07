@@ -25,8 +25,7 @@
 |过度消费|Overspending|/ˌoʊvərˈspendɪŋ/|
 |过度思考|Over-thinking||
 |今年给你的生活带来改变的人|People who made a different in your life this year||
-|把某人看作神圣的存在|Placing a person（or people）on an unrealistic pedestal|/
-ˌʌnriːəˈlɪstɪk/,/ˈpedɪst(ə)l/|
+|把某人看作神圣的存在|Placing a person（or people）on an unrealistic pedestal|/ˌʌnriːəˈlɪstɪk/,/ˈpedɪst(ə)l/|
 |把别人的需要放在自己前面|putting everyone else's needs in front of your own||
 |后悔，遗憾|Regrets|/rɪˈɡrets/|
 |愤恨，怨恨|Resentment|/rɪˈzentmənt/|
