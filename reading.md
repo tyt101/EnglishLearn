@@ -81,3 +81,11 @@ Do you sometimes wonder where your lost belongings(所有物，财物；亲属) 
 The store started operating over 50 years ago. This huge 4,600-square-meter(ˈhʌndrəd) store sells items left unclaimed by airlines for at least nine days. This is not a usual lost and found store, people come here to buy things which nobody wants. Doyle Owens founded(创办) the store in 1970, when he sold unclaimed baggage which he bought(/bɔːt/) in Washington(/ˈwɑːʃɪŋtən/) DC.
 
 While 99.5% of bags usually find their owners. Owens sells or recycles the rest, or even puts it in a store museum.
+
+
+### 5
+Shanghai faced a thick fog/fɑːɡ/ during the year-end holiday, which caused worry about transport problems.
+
+Authorities/əˈθɔːrətiz/ issued/ˈɪʃuːd/ a red fog/fɑːɡ/ warning which covered areas from the north in Hab province/ˈprɑːvɪns/ to Shanghai in the south. It was the first warning since 2017. Famous/ˈfeɪməs/ landmarks/ˈlændmɑːrks/ like the Shanghai Center Tower and Oriental/ˌɔːriˈent(ə)l/ Pearl/pɜːrl/ Tower became almost invisible, which surprised residents/ˈrezɪdənts/. Ferries/ˈferiz/, highways/ˈhaɪweɪz/, and bridges/ˈbrɪdʒɪz/ temporarily/ˌtempəˈrerəli/ closed due to the fog. Over 600 flights faced/feɪs/ delays in many cities.
+
+Experts expect/ɪkˈspekt/ that the bad weather will improve with a coming cold wave. China endured/ɪnˈdʊrd/ extreme weather throughout the year, from periods/pɪrɪədz/ of very cold weather to heatwaves/ˈhiːtweɪv/ and big storms/stɔːrmz/.

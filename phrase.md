@@ -194,3 +194,7 @@ cereal is made of grain.
 - fresh outlook 全新的面貌
 - move forward 继续前进
 - tangible/ˈtændʒəb(ə)l/ 可感知的， 可触碰的
+
+- celebrity 明星
+- influencer 网红
+- encounter 遇到
