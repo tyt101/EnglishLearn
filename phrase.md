@@ -109,7 +109,7 @@ dilemma question 进退两难的问题
 
 - lost and found 失物招领处 
 - e-commerce 电商
-- merchandise /ˈmɜːrtʃəndaɪs/(n不可数，v推销) / items / products 商品
+- merchandise /ˈmɜːrtʃəndaɪs/(n不可数，v推销) / items / products / wares 商品
 - general merchandise（/ˈmɜːrtʃəndaɪs/） 日用品
 
 ```
@@ -158,7 +158,7 @@ cereal is made of grain.
 - saving of up to 50% throughout the store 打折上限50%
 - ‘discount 折扣
 - deal 交易
-- organic 有机的
+- organic/ɔːrˈɡænɪk/ 有机的
 - $2.89 :2 dollars and 89 cents
 
 - $555.55:  five hundred fifty five , fifty five
@@ -172,10 +172,10 @@ cereal is made of grain.
 
 
 - scissors  /ˈsɪzərz/
-- astound 使惊恐 vt
+- astound 使惊恐 
 - fright 惊吓
 
-- dawn: I couldn't sleep util dawn.
+- dawn: I couldn't sleep util dawn（cockcrow）.
 
 - take a screen shot 截图
 
@@ -187,7 +187,7 @@ cereal is made of grain.
 
 - election 选举。
 
-- extrapolate/ɪkˈstræpəleɪt/ 推断
+- extrapolate/ɪkˈstræpəleɪt/ 推断 deduce
 - lessons learned 教训
 - session/ˈseʃ(ə)n/ 部分
 - closure/ˈkloʊʒər/ 了解，了断
@@ -198,3 +198,69 @@ cereal is made of grain.
 - celebrity 明星
 - influencer 网红
 - encounter 遇到
+
+- factory worker 
+- nail technician 美甲师 / get(got) my nails done 我今天做了指甲 
+- nail salon 美甲沙龙
+- art salon 艺术沙龙
+- custodian 托管人
+- bank teller 柜员
+- banker 银行后台
+- receptionist 前台
+- reception 信号 
+- your voice is cutting out 断断续续
+- Cashier/kæˈʃɪr/ 收银员
+- caregiver 看护者
+- sales rep 销售员 representative 代表
+- customer service 客户代表 
+<!-- custom 风俗； customs：关税； customer：客户； costume：服装 -->
+- agent 客户代表
+- supervisor 主管
+- manager 管理层
+- apply for a job
+- flexible hour / schedule
+- tight hour / my schedule is too tight
+- good benefits
+- a comfortable environment
+
+
+- though / tho  => but 
+- good luck with sth. 祝xx好运
+
+- both 两个都 （）
+- Neither 两个都不  （本身就是有否定意思，所以不能用在否定句中， 大部分时间用在句首） neither后面用单数
+- either A或者B / 也不 I don't like either of them (either永远用在否定句) 
+
+- cramp 痛经
+- meds / medicine
+
+- catch up on 
+- announcement 公告
+- fill out 填表
+- make a deposit 存款
+- deposit ： 沉淀物， 存款， 定金
+- workaholic
+- work for : 运行良好
+- negotiable: 可协商的
+- fixed： 不可协商的
+
+
+- memorized and recited many english words.
+- hold back my anger 忍住我的愤怒
+- tipping point 零界点
+- boundary 边界
+- bottom line 底线
+- you are crossing/(out of) the line 你超过了我的底线
+- pushy 压迫感
+- bossy 霸道感
+- accommodation 宿舍
+- apartment 公寓
+- my elder sister isn't up yet.
+- end up 一个事情到最后怎么样了
+- loo 厕所
+- combine with A and B ： A和B的结合
+- sewers 下水道
+- blockages 堵塞物
+- be labelled as 被标注为
+- it is best to do something 最好xxx
+- casserole 砂锅菜

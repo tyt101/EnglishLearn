@@ -84,8 +84,16 @@ While 99.5% of bags usually find their owners. Owens sells or recycles the rest,
 
 
 ### 5
-Shanghai faced a thick fog/fɑːɡ/ during the year-end holiday, which caused worry about transport problems.
+Shanghai faced a thick fog/fɑːɡ/ during the year-end holiday, which caused/kɔːzd/ worry about transport problems.
 
 Authorities/əˈθɔːrətiz/ issued/ˈɪʃuːd/ a red fog/fɑːɡ/ warning which covered areas from the north in Hab province/ˈprɑːvɪns/ to Shanghai in the south. It was the first warning since 2017. Famous/ˈfeɪməs/ landmarks/ˈlændmɑːrks/ like the Shanghai Center Tower and Oriental/ˌɔːriˈent(ə)l/ Pearl/pɜːrl/ Tower became almost invisible, which surprised residents/ˈrezɪdənts/. Ferries/ˈferiz/, highways/ˈhaɪweɪz/, and bridges/ˈbrɪdʒɪz/ temporarily/ˌtempəˈrerəli/ closed due to the fog. Over 600 flights faced/feɪs/ delays in many cities.
 
 Experts expect/ɪkˈspekt/ that the bad weather will improve with a coming cold wave. China endured/ɪnˈdʊrd/ extreme weather throughout the year, from periods/pɪrɪədz/ of very cold weather to heatwaves/ˈhiːtweɪv/ and big storms/stɔːrmz/.
+
+
+### 6
+Wet wipes/waɪps/ have become popular in many homes, and many end up down the loo/luː/. This could be a problem because wet wipes combine with fats/fæts/ and oils in the sewers/ˈsuːərz/. Together, they form blockages/ˈblɑːkɪdʒ/ which must be removed.
+
+In Britain, 80% of blockages come from wet wipes and other un-flushable things. People spend eighty-eight million pounds a year to remove these blockages.
+
+Some wet wipes are labelled/ˈleɪbld/ as flushable, but they really are not. English water companies and charities want all wet wipes to read “do not flush”. If you use wet wipes, it is best to put them in the bin.
