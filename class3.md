@@ -24,7 +24,7 @@ What's new ?  / same old same old. 老样子
 
 I feel better. 
 stay in home.
-I'm not doing anything thing .
+I'm not doing anything .
 have some rest(躺着休息) break (咱休息一会)
 
 We don't talk very often
@@ -44,31 +44,3 @@ compare prices
 save 
 
 --
-How are you getting ready?  你准备的如何？
-get ready to do sth. 准备去...
-get ready for sth. 准备...
-
-
-family作为概念不可数，比如 money is not important than family
-作为实体家庭时可数
-
-
-
-at school / at company
-be persistent to do sth. 坚持
-
-
-
-unstable 不稳定
-go with the flow. 
-go with the flow.
-I'm not in a rush to find a new job.
-
-
-- take advantage 占便宜
-take your advantage 咱优势
-- coupon 优惠券
-- discount promotion 促销
-- bargain 
-- negotiate the price 谈判
-- the custom / convention to bargain

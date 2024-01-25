@@ -264,3 +264,33 @@ cereal is made of grain.
 - be labelled as 被标注为
 - it is best to do something 最好xxx
 - casserole 砂锅菜
+- juicy and yummy 多汁又美味
+- stimulate 刺激
+
+- How are you getting ready?  你准备的如何？
+- get ready to do sth. 准备去...
+- get ready for sth. 准备...
+
+
+- family作为概念不可数，比如 money is not important than family
+作为实体家庭时可数
+
+
+
+- at school / at company
+- be persistent to do sth. 坚持
+
+
+
+- unstable 不稳定
+- go with the flow. 
+- I'm not in a rush to find a new job. 
+
+
+- take advantage 占便宜
+- take your advantage 咱优势
+- coupon 优惠券
+- discount promotion 促销
+- bargain 
+- negotiate the price 谈判
+- the custom / convention to bargain
