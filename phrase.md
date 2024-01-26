@@ -294,3 +294,6 @@ cereal is made of grain.
 - bargain 
 - negotiate the price 谈判
 - the custom / convention to bargain
+
+
+- compromise 做出让步
