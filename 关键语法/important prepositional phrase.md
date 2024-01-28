@@ -45,23 +45,22 @@
 - 通常指修剪/缩减。强调的是调整或精简的过程。
 - (减少，减少课时，减少开销)
 
-
 ### cut back
 - We should try our best to cut back the electricity usage/ power consumption and protect everyone.
 - Please cut back your daughter's extracurricular classes , she's learning too much! It's not good for her phychological/mental health.
-- I must cut back on browsing B station.
+- I must cut back on browsing B station. 
 - It's a suitable time to cut back on your schedule.
 - With the faltering of the economy, every family tries to cut back on costs
 
-
-
 ### blow up
 - (destory on purpose)
+- The bridge wasn't destroyed in the storm. The army blew it up before leaving the city
 ### go up to sb (走向xxx寻问)
 - (walk up to sb.)
-
+Go up to that policeman and ask him where you can find xxx.
 ### sell up
 - (卖掉, 出售)
-
+We may have to sell up the house and move to another town.
 ### break down
 - (详细的解析和分类, 细分) look closely more details
+- If we break down these figures into gender, you can see how women have been affected more by this policy/ˈpɑːləsi/.

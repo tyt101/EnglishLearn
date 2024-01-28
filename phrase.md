@@ -296,4 +296,6 @@ cereal is made of grain.
 - the custom / convention to bargain
 
 
-- compromise 做出让步
+- compromise 做出让步, 妥协
+- takeout 外卖
+- order take-out 点外卖
