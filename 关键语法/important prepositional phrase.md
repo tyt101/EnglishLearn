@@ -55,12 +55,21 @@
 ### blow up
 - (destory on purpose)
 - The bridge wasn't destroyed in the storm. The army blew it up before leaving the city
+
+- You blow up my car.
+- These terrorists blew up this buildings.
 ### go up to sb (走向xxx寻问)
 - (walk up to sb.)
 Go up to that policeman and ask him where you can find xxx.
+
+Go up to say hi to your mother.
+We're lost, it's time to go up to ask the way to our destination.
 ### sell up
 - (卖掉, 出售)
 We may have to sell up the house and move to another town.
+
+the first day of our goal is to sell up 10% of merchandise.
+The man is selling up his house in a low price as he is hurry to get enough money.
 ### break down
 - (详细的解析和分类, 细分) look closely more details
 - If we break down these figures into gender, you can see how women have been affected more by this policy/ˈpɑːləsi/.
