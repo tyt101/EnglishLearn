@@ -57,7 +57,7 @@
 - The bridge wasn't destroyed in the storm. The army blew it up before leaving the city
 
 - You blow up my car.
-- These terrorists blew up this buildings.
+- These terrorists/'terərists/ blew up this buildings.
 ### go up to sb (走向xxx寻问)
 - (walk up to sb.)
 Go up to that policeman and ask him where you can find xxx.
@@ -65,7 +65,7 @@ Go up to that policeman and ask him where you can find xxx.
 Go up to say hi to your mother.
 We're lost, it's time to go up to ask the way to our destination.
 ### sell up
-- (卖掉, 出售)
+- (卖掉, 出售，变卖财产的感觉，一般用于大的财产property)
 We may have to sell up the house and move to another town.
 
 the first day of our goal is to sell up 10% of merchandise.
@@ -73,3 +73,45 @@ The man is selling up his house in a low price as he is hurry to get enough mone
 ### break down
 - (详细的解析和分类, 细分) look closely more details
 - If we break down these figures into gender, you can see how women have been affected more by this policy/ˈpɑːləsi/.
+
+
+- We need to break it down into smaller parts.
+- The role of PBC is to break your whole goal down into specific.
+- Breaking a cake into thress parts.
+
+
+### knock down
+- 人为破坏掉(有程序性的拆除)
+- They are knocking the old hospital down because it's in a  dangerous condition. (in a dangerous condition)
+### blow down
+- 大自然破坏掉
+- The old trees were blown down in the heavy/high/strong/severe winds last night.
+### look over
+- 审查/检查
+- My manager went up to me and asked me to look over the contract.
+- Here is a document you need to look over.
+
+## sit up
+- 坐直了
+- He is not able to sit up.
+
+## point out
+- 指出
+
+## figure out
+- 解决
+I'll figure out it in the end.
+
+## line up
+- 嫌疑人占在一排，指认是谁干的。
+- 排队。
+- police line up
+- line up from small to large
+
+## pop up/in/into/around
+- pop into sb's mind 突然出现在xx的脑海中
+- pop around 顺便，顺路拜访朋友
+
+## build up
+- 累积
+- The candinates build up surpport by speaking everywhere.
