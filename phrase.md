@@ -201,9 +201,9 @@ cereal is made of grain.
 
 - factory worker 
 - nail technician 美甲师 / get(got) my nails done 我今天做了指甲 
-- nail salon 美甲沙龙
+- nail salon/səˈlɑːn/ 美甲沙龙
 - art salon 艺术沙龙
-- custodian 托管人
+- custodian/kʌˈstoʊdiən/ 托管人
 - bank teller 柜员
 - banker 银行后台
 - receptionist 前台
@@ -231,16 +231,21 @@ cereal is made of grain.
 - Neither 两个都不  （本身就是有否定意思，所以不能用在否定句中， 大部分时间用在句首） neither后面用单数
 - either A或者B / 也不 I don't like either of them (either永远用在否定句) 
 
-- cramp 痛经
+- cramp 痛经，抽筋
 - meds / medicine
 
-- catch up on 
+- catch up on 赶上进度， 了解（最近的事件
 - announcement 公告
 - fill out 填表
 - make a deposit 存款
+- pay a deposit 支付押金
+```
+I make a deposit of around $1000 我存了大约1000美金
+I paid a deposit to secure the house 我支付了押金去确保能租/买到房子
+```
 - deposit ： 沉淀物， 存款， 定金
-- workaholic
-- work for : 运行良好
+- workaholic 工作狂 /ˌwɜːrkəˈhɑːlɪk/
+- work for : 运行良好，为……工作：为某人或某机构提供劳动力或服务。
 - negotiable: 可协商的
 - fixed： 不可协商的
 
@@ -251,8 +256,8 @@ cereal is made of grain.
 - boundary 边界
 - bottom line 底线
 - you are crossing/(out of) the line 你超过了我的底线
-- pushy 压迫感
-- bossy 霸道感
+- pushy 压迫感  /ˈpʊʃi/
+- bossy 霸道感  /ˈbɔːsi/
 - accommodation 宿舍
 - apartment 公寓
 - my elder sister isn't up yet.
@@ -263,7 +268,7 @@ cereal is made of grain.
 - blockages 堵塞物
 - be labelled as 被标注为
 - it is best to do something 最好xxx
-- casserole 砂锅菜
+
 - juicy and yummy 多汁又美味
 - stimulate 刺激
 
@@ -283,22 +288,41 @@ cereal is made of grain.
 
 
 - unstable 不稳定
+```
+unstable: 更常用，可以用来形容各种不稳定的情况。比如不稳定的情绪，政治局势等。
+instable: 用的较少，含义更偏向于“易变的”，“不稳定的”，但更强调一种内在的不稳定性，比如指某个系统或结构本身就不稳定，容易发生变化。
+```
 - go with the flow. 
 - I'm not in a rush to find a new job. 
 
 
 - take advantage 占便宜
-- take your advantage 咱优势
-- coupon 优惠券
+- take your advantage 利用优势
+- coupon 优惠券 /ˈkuːpɑːn/
 - discount promotion 促销
 - bargain 
 - negotiate the price 谈判
 - the custom / convention to bargain
 
 
-- compromise 做出让步, 妥协
+- compromise 做出让步, 妥协 /ˈkɑːmprəmaɪz/
 - takeout 外卖
 - order take-out 点外卖
 
-- naughty 淘气的
-- clingy 粘人的
+- naughty 淘气的 /ˈnɔːti/
+- clingy 粘人的 /ˈklɪŋi/
+- broccoli 西兰花🥦 /ˈbrɑːkəli/
+- tomato 西红柿🍅 /təˈmeɪtoʊ/
+- potato 土豆🥔 /pəˈteɪtoʊ/
+- carrot 胡萝卜🍍 /ˈkærət/
+- onion 洋葱🧅 /ˈʌnjən/
+- cucumber 黄瓜🥒 /ˈkjuːkʌmbər/
+- lettuce 生菜🥬 /ˈletɪs/
+- cauliflower 花椰菜🥦菜花🥦 /ˈkɑːliflaʊər/
+- garlic 大蒜🧄 /ˈɡɑːrlɪk/
+- casserole 砂锅菜 /ˈkæsəroʊl/
+- grilled cheese 烤芝士
+- pasta(意大利面里有肉) / spagetti（无肉）
+- all lunches come with soup or salad and dressing(调味).
+- steak with a side of vegetables or soup. ( a side of 配菜)
+- vegan/ˈviːɡən/(更严格，一定要标志有vegan,无牛奶和鸡蛋) / vegetarian 素食主义者 /ˌvedʒəˈteriən/
